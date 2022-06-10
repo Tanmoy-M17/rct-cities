@@ -1,0 +1,344 @@
+{
+  "cities": [
+    {
+      "id": 5,
+      "city_name": "Hamburg",
+      "population": 89483,
+      "country": "Germany"
+    },
+    {
+      "id": 7,
+      "city_name": "Mirador",
+      "population": 88581,
+      "country": "Brazil"
+    },
+    {
+      "id": 8,
+      "city_name": "Arrën",
+      "population": 96116,
+      "country": "Albania"
+    },
+    {
+      "id": 9,
+      "city_name": "Upper Hell's Gate",
+      "population": 40533,
+      "country": "Bonaire, Saint Eustatius and Saba "
+    },
+    {
+      "id": 10,
+      "city_name": "Dno",
+      "population": 36212,
+      "country": "Russia"
+    },
+    {
+      "id": 11,
+      "city_name": "Shatian",
+      "population": 72714,
+      "country": "China"
+    },
+    {
+      "id": 12,
+      "city_name": "Litian",
+      "population": 64708,
+      "country": "China"
+    },
+    {
+      "id": 13,
+      "city_name": "Ban Na",
+      "population": 17994,
+      "country": "Thailand"
+    },
+    {
+      "id": 14,
+      "city_name": "Rio",
+      "population": 50572,
+      "country": "Portugal"
+    },
+    {
+      "id": 15,
+      "city_name": "Huangcaotuo",
+      "population": 88930,
+      "country": "China"
+    },
+    {
+      "id": 16,
+      "city_name": "Novoye Leushino",
+      "population": 89878,
+      "country": "Russia"
+    },
+    {
+      "id": 17,
+      "city_name": "Salwá",
+      "population": 16142,
+      "country": "Kuwait"
+    },
+    {
+      "id": 18,
+      "city_name": "Loma Bonita",
+      "population": 30269,
+      "country": "Mexico"
+    },
+    {
+      "id": 19,
+      "city_name": "Manolo Fortich",
+      "population": 98418,
+      "country": "Philippines"
+    },
+    {
+      "id": 20,
+      "city_name": "Avignon",
+      "population": 61577,
+      "country": "France"
+    },
+    {
+      "id": 22,
+      "city_name": "Oropesa",
+      "population": 72803,
+      "country": "Peru"
+    },
+    {
+      "id": 23,
+      "city_name": "Hepu",
+      "population": 76482,
+      "country": "China"
+    },
+    {
+      "id": 24,
+      "city_name": "Oke Mesi",
+      "population": 12011,
+      "country": "Nigeria"
+    },
+    {
+      "id": 25,
+      "city_name": "Podujeva",
+      "population": 99460,
+      "country": "Kosovo"
+    },
+    {
+      "id": 26,
+      "city_name": "Santa Teresa",
+      "population": 1245,
+      "country": "Philippines"
+    },
+    {
+      "id": 27,
+      "city_name": "Port-Cartier",
+      "population": 50148,
+      "country": "Canada"
+    },
+    {
+      "id": 28,
+      "city_name": "Guaranésia",
+      "population": 79220,
+      "country": "Brazil"
+    },
+    {
+      "id": 29,
+      "city_name": "Xin’an",
+      "population": 82017,
+      "country": "China"
+    },
+    {
+      "id": 30,
+      "city_name": "Biritiba Mirim",
+      "population": 59867,
+      "country": "Brazil"
+    },
+    {
+      "id": 31,
+      "city_name": "Yangsan",
+      "population": 59443,
+      "country": "South Korea"
+    },
+    {
+      "id": 32,
+      "city_name": "Tinogasta",
+      "population": 96633,
+      "country": "Argentina"
+    },
+    {
+      "id": 33,
+      "city_name": "Nalbandyan",
+      "population": 10409,
+      "country": "Armenia"
+    },
+    {
+      "id": 35,
+      "city_name": "Kaca",
+      "population": 69073,
+      "country": "Indonesia"
+    },
+    {
+      "id": 38,
+      "city_name": "Zator",
+      "population": 73863,
+      "country": "Poland"
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "country": "Indonesia"
+    },
+    {
+      "id": 2,
+      "country": "Tanzania"
+    },
+    {
+      "id": 3,
+      "country": "China"
+    },
+    {
+      "id": 4,
+      "country": "South Korea"
+    },
+    {
+      "id": 5,
+      "country": "Philippines"
+    },
+    {
+      "id": 6,
+      "country": "China"
+    },
+    {
+      "id": 7,
+      "country": "Morocco"
+    },
+    {
+      "id": 8,
+      "country": "Palestinian Territory"
+    },
+    {
+      "id": 9,
+      "country": "United States"
+    },
+    {
+      "id": 10,
+      "country": "Indonesia"
+    },
+    {
+      "id": 11,
+      "country": "Russia"
+    },
+    {
+      "id": 12,
+      "country": "Indonesia"
+    },
+    {
+      "id": 13,
+      "country": "Russia"
+    },
+    {
+      "id": 14,
+      "country": "Russia"
+    },
+    {
+      "id": 15,
+      "country": "Ukraine"
+    },
+    {
+      "id": 16,
+      "country": "Indonesia"
+    },
+    {
+      "id": 17,
+      "country": "Colombia"
+    },
+    {
+      "id": 18,
+      "country": "Czech Republic"
+    },
+    {
+      "id": 19,
+      "country": "Poland"
+    },
+    {
+      "id": 20,
+      "country": "Peru"
+    },
+    {
+      "id": 21,
+      "country": "China"
+    },
+    {
+      "id": 22,
+      "country": "France"
+    },
+    {
+      "id": 23,
+      "country": "Tajikistan"
+    },
+    {
+      "id": 24,
+      "country": "Canada"
+    },
+    {
+      "id": 25,
+      "country": "Peru"
+    },
+    {
+      "id": 26,
+      "country": "Iran"
+    },
+    {
+      "id": 27,
+      "country": "Zimbabwe"
+    },
+    {
+      "id": 28,
+      "country": "Pakistan"
+    },
+    {
+      "id": 29,
+      "country": "Brazil"
+    },
+    {
+      "id": 30,
+      "country": "Russia"
+    },
+    {
+      "id": 31,
+      "country": "Brazil"
+    },
+    {
+      "id": 32,
+      "country": "China"
+    },
+    {
+      "id": 33,
+      "country": "China"
+    },
+    {
+      "country": "india",
+      "id": 35
+    },
+    {
+      "country": "USA",
+      "id": 36
+    },
+    {
+      "country": "Dubai",
+      "id": 37
+    },
+    {
+      "country": "Tanzania",
+      "id": 38
+    },
+    {
+      "country": "India",
+      "id": 39
+    },
+    {
+      "country": "AAA",
+      "id": 40
+    },
+    {
+      "country": "Indonesia",
+      "id": 41
+    },
+    {
+      "country": "aaa",
+      "id": 42
+    }
+  ]
+}
