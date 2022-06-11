@@ -4,8 +4,9 @@ import React, { useEffect, useState } from 'react'
 const City = (props) => {
     const[Table,setTable]=useState([]);
     const[Page, setPage]=useState(1);
-    const[Limit, setLimit]=useState(10);
+    const[Limit, setLimit]=useState(10);    
     const[Total,setTotal]=useState(0)
+    // const [Sortby, setSortby]=useState("");
     const getData=async()=>{
         let r= await axios.get(`http://localhost:8080/cities?_page=${Page}&_limit=${Limit}`);
            setTable(r.data);
@@ -40,6 +41,12 @@ const deleteItem = (id) => {
     axios.delete(`http://localhost:8080/cities/${id}`)
     .then(()=>{getData()})
   }
+  const handelSort=(value)=>{
+   let data= [...Table].sort((a,b)=>((b[value])-(a[value])));
+   setTable(data);
+   
+  }
+
 return (
 <div>city
     <form onSubmit={Submit}>
@@ -62,7 +69,7 @@ return (
             <h1>Table</h1>
                 <div>
                 <label>Sort By</label>
-            <select onChange={(e)=>setLimit(e.target.value)}>
+            <select onChange={(e)=>handelSort(e.target.value)}>
                             <option value="">select an option</option>
                             <option value="population">Population</option>
                             
